@@ -21,6 +21,8 @@ Skills: C / C++ / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=transparent)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen)  
 
 ![Profile views](https://gpvc.arturio.dev/Developer-Rakeen)  
