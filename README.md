@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/Developer-Rakeen)  
+
 ![Programmer](https://media.licdn.com/dms/image/D4E16AQG05L_st6P-kg/profile-displaybackgroundimage-shrink_350_1400/0/1679040091955?e=1687996800&v=beta&t=AKlPnK_TOUaiarGnLWbzOIZUsJ-XFCpAJvoLjiL7xZE)
 
 # Hi there 👋, my name is Rakeen
@@ -22,5 +24,3 @@ Skills: C / C++ / Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=transparent)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen)  
-
-![Profile views](https://gpvc.arturio.dev/Developer-Rakeen)  
