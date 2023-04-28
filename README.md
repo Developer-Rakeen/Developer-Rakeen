@@ -3,8 +3,6 @@
 # Hi there 👋, my name is Rakeen
 ### Programmer
 
-![Profile views](https://gpvc.arturio.dev/Developer-Rakeen)  
-
 I believe that Programmers are a type of Wizards.
 
 Skills: C / C++ / Python
