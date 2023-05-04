@@ -1,5 +1,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-Problem-Solving-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-Problem-Solving-Solutions)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Space-Invaders&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Space-Invaders)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Rock-Paper-Scissor&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Rock-Paper-Scissor)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-C-Plus-Plus-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-C-Plus-Plus-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Rock-Paper-Scissor&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Rock-Paper-Scissor)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-C-Plus-Plus-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-C-Plus-Plus-Solutions)<!--(https://github.com/Developer-Rakeen/Hackerrank-C-Plus-Plus-Solutions)-->
 
 <!--![2023-05-03](https://user-images.githubusercontent.com/126400943/236114603-d0929e12-07f0-41c6-9c20-0b57ccae6ee0.png)-->
 
@@ -21,8 +21,16 @@ Skills: C / C++ / Python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
 
-![Developer-Rakeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast)
+<!--![Developer-Rakeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast)-->
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true" />
+</picture>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen&theme=bear)
