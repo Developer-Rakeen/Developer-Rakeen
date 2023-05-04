@@ -21,7 +21,17 @@ Skills: C / C++ / Python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" />
+</picture>
+
+<br>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)-->
 
 <!--![Developer-Rakeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast)-->
 
@@ -33,4 +43,14 @@ Skills: C / C++ / Python
 <img src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true" />
 </picture>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen&theme=bear)
+<br>
+
+<picture>
+<source
+  srcset="https://streak-stats.demolab.com/?user=Developer-Rakeen&theme=bear"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://streak-stats.demolab.com/?user=Developer-Rakeen&theme=bear" />
+</picture>
+
+<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen&theme=bear)-->
