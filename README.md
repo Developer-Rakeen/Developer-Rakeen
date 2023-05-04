@@ -18,8 +18,8 @@ Skills: C / C++ / Python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&layout=compact)](https://github.com/Developer-Rakeen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Developer-Rakeen's GitHub stats](https://camo.githubusercontent.com/58476bbcb4b3d2d51a3167814f22cdf5e8571f659523a7b234364bc398c6abf0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d446576656c6f7065722d52616b65656e2673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74)<!--(https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=transparent)-->
+![Developer-Rakeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=transparent)-->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Rakeen)  
