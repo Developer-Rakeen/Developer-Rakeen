@@ -1,5 +1,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-Problem-Solving-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-Problem-Solving-Solutions)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Space-Invaders&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Space-Invaders)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Rock-Paper-Scissor&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Rock-Paper-Scissor)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-C-Plus-Plus-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-C-Plus-Plus-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-Python-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-Python-Solutions)
 
 <!--![2023-05-03](https://user-images.githubusercontent.com/126400943/236114603-d0929e12-07f0-41c6-9c20-0b57ccae6ee0.png)-->
 
