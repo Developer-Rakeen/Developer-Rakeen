@@ -7,7 +7,7 @@ Skills: C / C++ / Python
 - ⚡ Fun fact: Coders and Programmers are different
 
 ## 🏆 Github Profile Trophy
-![](https://github-profile-trophy.vercel.app/?username=Developer-Rakeen&no-bg=true&theme=juicyfresh)
+![](https://github-profile-trophy.vercel.app/?username=Developer-Rakeen&no-bg=false&theme=juicyfresh)
 
 ## 💡 Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Hackerrank-Problem-Solving-Solutions&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Hackerrank-Problem-Solving-Solutions)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Rakeen&repo=Space-Invaders&theme=vision-friendly-dark&show_owner=true)](https://github.com/Developer-Rakeen/Space-Invaders)   
@@ -23,7 +23,7 @@ Skills: C / C++ / Python
 ## 🔗 Social-Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mushfiq-rakeen-02535726a/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16128995/dragon)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakeen2008?mibextid=ZbWKwL) 
 
-## 🌟 Show-Only
+## 🌟 Show-Off
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
 
 ## 🎯 Focus
