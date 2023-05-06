@@ -2,8 +2,8 @@
 
 Skills: C / C++ / Python
 
-- 🌱 I’m currently learning C++ 
-- 💬 Ask me about C, C++ and Python
+- 🌱 I’m currently learning ML (Machine Learning) 
+- 💬 Ask me about C, C++, Python or ML
 - ⚡ Fun fact: Coders and Programmers are different
 
 ## 🏆 Github Profile Trophy
