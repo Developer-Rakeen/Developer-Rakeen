@@ -1,12 +1,28 @@
 # Hi there 👋, my name is Rakeen
 
-Skills: C / C++ / Python
 
 - 🌱 I’m currently learning ML (Machine Learning) 
 - 💬 Ask me about C, C++, Python or ML
 - ⚡ Fun fact: Coders and Programmers are different
 
+<!--Skills: C / C++ / Python-->
+## 👨‍💻 SKILLS
+<div align="center">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
+</div>
 
+## 💻 IDE
+<div align="center">
+  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
+</div>
+
+## 🔨 TOOL
+<div align="center">
+  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
+</div>
+<br>
 <details>
   <summary> 🔗 Social-Links </summary>
 <a href=https://www.linkedin.com/in/mushfiq-rakeen-02535726a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'><a/>       <a href=https://stackoverflow.com/users/16128995/dragon><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>     <a href=https://www.facebook.com/rakeen2008?mibextid=ZbWKwL><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a> <a href=https://www.reddit.com/user/ML_DEV_Rakeen><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
