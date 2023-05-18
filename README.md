@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Rakeen
 
-
 - 🌱 I’m currently learning ML (Machine Learning) 
 - 💬 Ask me about C, C++, Python or ML
 - ⚡ Fun fact: Coders and Programmers are different
@@ -11,11 +10,13 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
+	<code><img height="50" src="http://content.arduino.cc/brand/arduino-color.svg"/></code>
 </div>
 
 ## 💻 IDE
 <div align="center">
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
+  <code><img height="50" src="https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/011dddc1-091d-4f03-a439-38313a4b0e74"/></code>
 </div>
 
 ## 🔨 TOOL
