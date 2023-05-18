@@ -1,8 +1,11 @@
-# Hi there 👋, my name is Rakeen
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+my+name+is+Mushfiquzzaman+Rakeen.;Welcome+🤩+to+My+Profile!;My+Programming+Experience+👨‍💻+is+about+2.5+years.;🌱+I’m+currently+learning+ML+(Machine+Learning).;💬+Ask+me+about+C,+C-Plus-Plus+,+Python+or+ML.;Follow+me+🤝+for+more+educational+contents.)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning ML (Machine Learning) 
-- 💬 Ask me about C, C++, Python or ML
-- ⚡ Fun fact: Coders and Programmers are different
+<!-- # Hi there 👋, my name is Rakeen -->
+<!--  -->
+
+<!-- - 🌱 I’m currently learning ML (Machine Learning) -->
+<!-- - 💬 Ask me about C, C++, Python or ML -->
+<!-- - ⚡ Fun fact: Coders and Programmers are different -->
 
 <!--Skills: C / C++ / Python-->
 ## 👨‍💻 SKILLS
@@ -57,8 +60,14 @@
 
   <summary>📊 Github Stats</summary>
   
-  | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast" alt="Piyush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" /></a> |
-| ------------- | ------------- |
+<!--   | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast" alt="Piyush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" /></a> |
+| ------------- | ------------- | -->
+  
+[![Rakeen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Developer-Rakeen&theme=react-dark)](https://github.com/BEPb/github-readme-activity-graph)
+
+|                                                                                                                                        |                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Rakeen's github stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast&include_all_commits=true) | ![Rakeen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&theme=tokyonight&layout=compact) |
   
 </details>
 <!-- 
@@ -70,7 +79,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true" />
 </picture>-->
 
-
+<p align="center">
+    <a href="https://github.com/Developer-Rakeen/Developer-Rakeen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/Developer-Rakeen/Developer-Rakeen/graphs/contributors"><img src="https://img.shields.io/github/contributors/Developer-Rakeen/Developer-Rakeen?color=purple"></a>
+<!--     <a href="https://github.com/BEPb/Developer-Rakeen/stargazers"><img src="https://img.shields.io/github/stars/Developer-Rakeen/Developer-Rakeen.svg?logo=github"></a>
+    <a href="https://github.com/Developer-Rakeen/Developer-Rakeen/network/members"><img src="https://img.shields.io/github/forks/Developer-Rakeen/Developer-Rakeen.svg?color=blue&logo=github"></a> -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Developer-Rakeen.Developer-Rakeen" alt="visitors"/>   
+</p>
 
 <br>
 
