@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+my+name+is+Mushfiquzzaman+Rakeen.;Welcome+🤩+to+My+Profile!;My+Programming+Experience+👨‍💻+is+about+2.5+years.;🌱+I’m+currently+learning+ML+(Machine+Learning).;💬+Ask+me+about+C,+C-Plus-Plus+,+Python+or+ML.;Follow+me+🤝+for+more+educational+contents.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&width=600&lines=Hi+there+👋,+my+name+is+Mushfiquzzaman+Rakeen.;Welcome+🤩+to+My+Profile!;My+Programming+Experience+👨‍💻+is+about+2.5+years.;🌱+I’m+currently+learning+ML+(Machine+Learning).;💬+Ask+me+about+C,+C-Plus-Plus+,+Python+or+ML.;Follow+me+🤝+for+more+educational+contents.)](https://git.io/typing-svg)
 
 <!-- # Hi there 👋, my name is Rakeen -->
 <!--  -->
@@ -30,6 +30,7 @@
 <br>
 <details>
   <summary> 🔗 Social-Links </summary>
+<br>	
 <a href=https://www.linkedin.com/in/mushfiq-rakeen-02535726a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'><a/>       <a href=https://stackoverflow.com/users/16128995/dragon><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>     <a href=https://www.facebook.com/rakeen2008?mibextid=ZbWKwL><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a> <a href=https://www.reddit.com/user/ML_DEV_Rakeen><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
 </details>
 
@@ -59,7 +60,7 @@
 <details>
 
   <summary>📊 Github Stats</summary>
-  
+<br>
 <!--   | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast" alt="Piyush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- | -->
   
@@ -85,7 +86,7 @@
     <a href="https://github.com/Developer-Rakeen/Developer-Rakeen/graphs/contributors"><img src="https://img.shields.io/github/contributors/Developer-Rakeen/Developer-Rakeen?color=purple"></a>
 <!--     <a href="https://github.com/BEPb/Developer-Rakeen/stargazers"><img src="https://img.shields.io/github/stars/Developer-Rakeen/Developer-Rakeen.svg?logo=github"></a>
     <a href="https://github.com/Developer-Rakeen/Developer-Rakeen/network/members"><img src="https://img.shields.io/github/forks/Developer-Rakeen/Developer-Rakeen.svg?color=blue&logo=github"></a> -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Developer-Rakeen.Developer-Rakeen" alt="visitors"/>   
+<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Developer-Rakeen.Developer-Rakeen" alt="visitors"/>    -->
 </p>
 
 <br>
