@@ -24,6 +24,7 @@
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
 </div>
 <br>
+<br>
 <details>
   <summary> 🔗 Social-Links </summary>
 <a href=https://www.linkedin.com/in/mushfiq-rakeen-02535726a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'><a/>       <a href=https://stackoverflow.com/users/16128995/dragon><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>     <a href=https://www.facebook.com/rakeen2008?mibextid=ZbWKwL><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a> <a href=https://www.reddit.com/user/ML_DEV_Rakeen><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
@@ -71,7 +72,7 @@
 
 
 
-
+<br>
 
 ## 🏆 Github Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=Developer-Rakeen&no-bg=false&theme=juicyfresh)
