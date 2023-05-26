@@ -77,7 +77,7 @@
 <!--   | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast" alt="Piyush's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- | -->
   
-[![Rakeen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Developer-Rakeen&theme=react-dark)](https://github.com/BEPb/github-readme-activity-graph)
+<!-- [![Rakeen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Developer-Rakeen&theme=react-dark)](https://github.com/BEPb/github-readme-activity-graph) -->
 
 |                                                                                                                                        |                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
