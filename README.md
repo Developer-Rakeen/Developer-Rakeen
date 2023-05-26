@@ -81,7 +81,7 @@
 
 |                                                                                                                                        |                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Rakeen's github stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast&include_all_commits=true) | ![Rakeen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&theme=tokyonight&layout=compact) |
+| ![Rakeen's github stats](https://github-readme-stats.vercel.app/api?username=Developer-Rakeen&show_icons=true&theme=highcontrast&include_all_commits=true) | ![Rakeen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Rakeen&theme=tokyonight&layout=donut-vertical) |
   
 </details>
 <!-- 
