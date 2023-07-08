@@ -9,7 +9,7 @@
 ![linkedin](https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/06a463c9-83c9-4fd2-9781-12105e371469) -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&width=600&lines=Hi+there+👋,+my+name+is+Mushfiquzzaman+Rakeen.;Welcome+🤩+to+My+Profile!;My+Programming+👨‍💻+Experience+is+about+2.5+years.;🌱+I’m+currently+learning+ML+(Machine+Learning).;💬+Ask+me+about+C,+C-Plus-Plus+,+Python+or+ML.;Follow+me+🤝+for+more+educational+contents.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&width=600&lines=Hi+there+👋,+my+name+is+Mushfiquzzaman+Rakeen.;Welcome+🤩+to+My+Profile!;My+Programming+👨‍💻+Experience+is+about+2.5+years.;🌱+I’m+currently+learning+App+Development.;💬+Ask+me+about+C,+C-Plus-Plus+,+Python+or+ML.;Follow+me+🤝+for+more+educational+contents.)](https://git.io/typing-svg)
 
 <!-- # Hi there 👋, my name is Rakeen -->
 <!--  -->
