@@ -1,3 +1,4 @@
+
 <!-- ![kaggle-removebg-preview](https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/fa61f80d-a877-4f97-b256-8d0b3da65031)
 
 ![Hackerrank-removebg-preview](https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/cdc00ead-61f1-4f3c-8079-fa31f0310751)
@@ -25,12 +26,15 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
 	<code><img height="50" src="http://content.arduino.cc/brand/arduino-color.svg"/></code>
+	<code><img height="50" src="https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/5e2d9aa5-ffd0-47e8-9880-8d6a5345b981"/></code>
+	<code><img height="50" src="https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/12be6055-de93-4713-b983-a6925052aa96"/></code>
 </div>
 
 ## 💻 IDE
 <div align="center">
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
   <code><img height="50" src="https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/011dddc1-091d-4f03-a439-38313a4b0e74"/></code>
+  <code><img height="50" src="https://github.com/Developer-Rakeen/Developer-Rakeen/assets/126400943/a98f9c82-ddd6-488e-88c8-1ef9ae7f4820"/></code>
 </div>
 
 ## 🔨 TOOL
